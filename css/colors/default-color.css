@@ -7,19 +7,19 @@
 */
 ::-moz-selection { /** Code for Firefox **/
   color:#ffffff;
-  background:#2a1fbc;
+  background:#121481;
 }
 ::selection {
   color:#ffffff;
-  background:#2a1fbc;
+  background:#121481;
 } 
 a {
-	color:#2a1fbc;
+	color:#121481;
 }
 .btn-primary{
-	background-image: -moz-linear-gradient(top, #488fed 0%, #2a1fbc 100%);
-	background-image: -webkit-linear-gradient(top, #488fed 0%, #2a1fbc 100%);
-	background-image: linear-gradient(to bottom, #488fed 0%, #2a1fbc 100%);
+	background-image: -moz-linear-gradient(top, #121481 0%, #121481 100%);
+	background-image: -webkit-linear-gradient(top, #121481 0%, #121481 100%);
+	background-image: linear-gradient(to bottom, #121481 0%, #121481 100%);
 	-webkit-box-shadow: 0px 0px 30px 0px rgba(42, 31, 188, 0.4);
 	box-shadow: 0px 0px 30px 0px rgba(42, 31, 188, 0.4);
 	background-size:auto 140%;
@@ -33,7 +33,7 @@ a {
 	color:#485974;
 }
 .btn-primary.btn-light:hover, .btn-primary.btn-light:focus{
-	color:#2a1fbc;
+	color:#121481;
 }
 .btn-secondary{
 	background-color: #485974;
@@ -48,12 +48,12 @@ a {
 }
 .btn-outline-primary{
 	background:transparent;
-	border:2px solid #2a1fbc;
-	color:#2a1fbc;
+	border:2px solid #121481;
+	color:#121481;
 }
 .btn-outline-primary:hover, .btn-outline-primary:focus{
-	background:#2a1fbc;
-	border-color:#2a1fbc;
+	background:#121481;
+	border-color:#121481;
 	color:#ffffff;
 	-webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.4);
 	box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.4);
@@ -81,26 +81,26 @@ a {
 	box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.4);
 }
 .menu-primary li.menu-item:hover > a, .menu-primary li.menu-item.active > a{
-	color:#2a1fbc;
+	color:#121481;
 }
 .menu-fixed .menu-primary li.menu-item:hover > a, .menu-fixed .menu-primary li.menu-item.active > a{
-	color:#2a1fbc;
+	color:#121481;
 	opacity:1;
 }
 .menu-fixed .btn-outline-primary.btn-light {
     background: transparent;
-    border: 2px solid #2a1fbc;
-    color: #2a1fbc;
+    border: 2px solid #121481;
+    color: #121481;
 }
 .menu-fixed .btn-outline-primary.btn-light:hover {
-    background:#2a1fbc;
-    border-color:#2a1fbc;
+    background:#121481;
+    border-color:#121481;
     color: #ffffff;
 }
 .menu-fixed .btn-primary.btn-light{
-	background-image: -moz-linear-gradient(top, #488fed 0%, #2a1fbc 100%);
-	background-image: -webkit-linear-gradient(top, #488fed 0%, #2a1fbc 100%);
-	background-image: linear-gradient(to bottom, #488fed 0%, #2a1fbc 100%);
+	background-image: -moz-linear-gradient(top, #121481 0%, #121481 100%);
+	background-image: -webkit-linear-gradient(top, #121481 0%, #121481 100%);
+	background-image: linear-gradient(to bottom, #121481 0%, #121481 100%);
 	-webkit-box-shadow: 0px 0px 30px 0px rgba(42, 31, 188, 0.4);
 	box-shadow: 0px 0px 30px 0px rgba(42, 31, 188, 0.4);
 	background-size:auto 140%;
@@ -108,16 +108,16 @@ a {
 	color: #ffffff;
 }
 .menu-primary .sub-menu > li.menu-item > a:before{
-	background: -moz-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, #488fed), color-stop(100%, #291fbc));
-	background: -webkit-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: linear-gradient(to right, #488fed 0%, #291fbc 100%);
+	background: -moz-linear-gradient(left, #121481 0%, #121481 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, #121481), color-stop(100%, #121481));
+	background: -webkit-linear-gradient(left, #121481 0%, #121481 100%);
+	background: linear-gradient(to right, #121481 0%, #121481 100%);
 }
 .menu-primary .sub-menu > li.menu-item.col-title > a:after{
-	background: -moz-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, #488fed), color-stop(100%, #291fbc));
-	background: -webkit-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: linear-gradient(to right, #488fed 0%, #291fbc 100%);
+	background: -moz-linear-gradient(left, #121481 0%, #121481 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, #121481), color-stop(100%, #121481));
+	background: -webkit-linear-gradient(left, #121481 0%, #121481 100%);
+	background: linear-gradient(to right, #121481 0%, #121481 100%);
 }
 
 .page-header.dc-one{
@@ -190,10 +190,10 @@ a {
 .heading-wrapper.with-separator h1:after, 
 .heading-wrapper.with-separator h2:after,
 .heading-wrapper.with-separator h3:after{
-	background: -moz-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, #488fed), color-stop(100%, #291fbc));
-	background: -webkit-linear-gradient(left, #488fed 0%, #291fbc 100%);
-	background: linear-gradient(to right, #488fed 0%, #291fbc 100%);
+	background: -moz-linear-gradient(left, #121481 0%, #121481 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, #121481), color-stop(100%, #121481));
+	background: -webkit-linear-gradient(left, #121481 0%, #121481 100%);
+	background: linear-gradient(to right, #121481 0%, #121481 100%);
 }
 .key-feature .icon{
 	color:#2a1fbc;
